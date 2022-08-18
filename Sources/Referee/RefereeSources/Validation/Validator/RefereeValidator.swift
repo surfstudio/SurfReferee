@@ -1,11 +1,11 @@
 //
-//  Validator.swift
+//  RefereeValidator.swift
 //  NonSpaghettiValidation
 //
 //  Created by Ilya Cherkasov on 09.06.2022.
 //
 
-public class Validator {
+public class RefereeValidator {
     
     // MARK: - Properties
     

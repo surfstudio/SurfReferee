@@ -7,6 +7,6 @@
 
 public protocol Validable {
         
-    var validator: Validator { get set }
+    var validator: RefereeValidator { get set }
     
 }

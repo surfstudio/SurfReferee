@@ -11,7 +11,7 @@ import XCTest
 class TestVoter: Voting {
     
     var votersProvider: VotersProvider?
-    var validator: Validator = Validator()
+    var validator: RefereeValidator = RefereeValidator()
     
     var name = "Ilya"
     
